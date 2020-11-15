@@ -1,14 +1,7 @@
 ### Hi there 👋
 
-#### I'm Rodrigo Dias Noronha!
+#### I'm Rodrigo Dias Noronha
 
-Web and mobile developer focused on the latest technologies in the market like: 
+[![Gmail Badge](https://img.shields.io/badge/-rodrigodnoronha@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
 
-- :electron: React
-- :electron: React Native
-- :electron: Node.JS
-- :earth_asia: VueJS
-- :computer: Javascript Universe :fire:
-
-#### I love these technologies! I love to build things with it!My purpose is inovate and create apps to companies!  
-
+- I am web and mobile developer. Just creating and innovating with the bests technologies in the market.
