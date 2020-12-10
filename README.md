@@ -6,4 +6,4 @@
 - Frontend Developer. 
 - Mobile Developer.
 
-### Just creating and innovating with the bests technologies in the market.
+### Just creating and innovating with the best technologies in the market.
