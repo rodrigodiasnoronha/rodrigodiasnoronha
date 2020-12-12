@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/xxxkckkxkxxk.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/xxxkckkxkxxk)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/xxxkckkxkxxk.svg?style=social&label=xxxkckkxkxxk)](https://twitter.com/xxxkckkxkxxk)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
 
 I am Rodrigo Noronha, a programming enthusiast and passionate about technologies. I love to code, learn and teach!
