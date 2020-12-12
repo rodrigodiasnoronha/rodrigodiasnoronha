@@ -3,12 +3,10 @@
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/xxxkckkxkxxk.svg?style=social&label=xxxkckkxkxxk)](https://twitter.com/xxxkckkxkxxk)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
 
-I am Rodrigo Noronha, a programming enthusiast and passionate about technologies. I love to code, learn and teach!
-
+I am Rodrigo Noronha, frontend and mobile developer, focused in React ecosystem
 More about me:
 - :rocket: I’m currently working as a freelancer developer
 - :school: I'm a Information Systems student 
-- 💬  Ask me about anything [here](https://github.com/rodrigodnoronha/rodrigodnoronha/issues)
 
 <br/>
 
