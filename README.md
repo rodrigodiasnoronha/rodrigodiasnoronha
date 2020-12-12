@@ -1,9 +1,24 @@
-### Hi there 👋
+## Hi There 👋
 
-[![Gmail Badge](https://img.shields.io/badge/-rodrigodnoronha@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-@xxxkckkxkxxk-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/xxxkckkxkxxk)](https://twitter.com/xxxkckkxkxxk) 
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://medium.com/@anajuliabit)](https://medium.com/@anajuliabit)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
 
-- Frontend Developer. 
-- Mobile Developer.
+I am Rodrigo Noronha, a programming enthusiast and passionate about technologies. I love to code, learn and teach!
 
-### Just creating and innovating with the best technologies in the market.
+More about me:
+- :rocket: I’m currently working as a freelancer developer
+- :school: I'm a Information Systems student 
+- 💬  Ask me about anything [here](https://github.com/rodrigodnoronha/rodrigodnoronha/issues)
+
+<br/>
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=rodrigodiasnoronha&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigodiasnoronha&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
