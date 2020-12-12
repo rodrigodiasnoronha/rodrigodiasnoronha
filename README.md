@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
 
 I am Rodrigo Noronha, frontend and mobile developer, focused in React ecosystem
+
 More about me:
 - :rocket: I’m currently working as a freelancer developer
 - :school: I'm a Information Systems student 
