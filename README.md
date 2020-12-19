@@ -1,8 +1,5 @@
 ## Hi There 👋
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/xxxkckkxkxxk.svg?style=social&label=xxxkckkxkxxk)](https://twitter.com/xxxkckkxkxxk)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rodrigodnoronha@gmail.com)](mailto:rodrigodnoronha@gmail.com)
-
 I am Rodrigo Noronha, frontend and mobile developer, focused in React ecosystem
 
 More about me:
