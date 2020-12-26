@@ -4,7 +4,7 @@ I am Rodrigo Noronha, frontend and mobile developer, focused in React ecosystem
 
 More about me:
 - :rocket: I’m currently working as a freelancer developer
-- :school: I'm a Information Systems student 
+- :school: I'm a Software Engineer student 
 
 <br/>
 
