@@ -1,13 +1,5 @@
 ## Hi There 👋
 
-I am Rodrigo Noronha, frontend and mobile developer, focused in React ecosystem
-
-More about me:
-- :rocket: I’m currently working as a freelancer developer
-- :school: I'm a Software Engineer student 
-
-<br/>
-
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=rodrigodiasnoronha&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
