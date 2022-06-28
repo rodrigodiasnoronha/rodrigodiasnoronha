@@ -1,6 +1,6 @@
 ## Hi There 👋
 
-### I'm Rodrigo, I like software development, games, (e-)sports, networking...
+### I'm Rodrigo Noronha, I like software development, games, (e-)sports, networking...
 ### Só agradece 🙏🏻
 
 #### :zap: Github Stats
