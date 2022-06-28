@@ -1,7 +1,7 @@
 ## Hi There 👋
 
-#### I'm Rodrigo, I like software development, games, (e-)sports, networking...
-#### Só agradece 🙏🏻
+### I'm Rodrigo, I like software development, games, (e-)sports, networking...
+### Só agradece 🙏🏻
 
 #### :zap: Github Stats
 
