@@ -1,5 +1,8 @@
 ## Hi There 👋
 
+#### I'm Rodrigo, I like software development, games, (e-)sports, networking...
+#### Só agradece 🙏🏻
+
 #### :zap: Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigodiasnoronha&show_icons=true&theme=codeSTACKr)
