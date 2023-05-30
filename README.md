@@ -1,3 +1,3 @@
 ## Hi There 👋
-
-### I'm Rodrigo Noronha, I like software development, games, (e-)sports, networking...
+### I'm Rodrigo Noronha
+#### Game collector, e-sports fan, may a streamer sometimes, software developer and a gaming pc enthusiast
