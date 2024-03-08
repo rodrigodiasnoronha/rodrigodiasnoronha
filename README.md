@@ -1,3 +1,2 @@
 ## Hi There 👋
-### I'm Rodrigo Noronha
-#### Game collector, e-sports fan, may a streamer sometimes, software developer and a gaming pc enthusiast
+### I am a game collector, e-sports fan, may a streamer sometimes, open sourcerer and a gaming pc enthusiast
