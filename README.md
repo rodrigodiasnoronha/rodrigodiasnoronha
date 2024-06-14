@@ -15,6 +15,6 @@ const hobbiesAndStuffs = [
   "investor",
   "gaming pc enthusiast"
 ];
-const howToReachMe = "You cannot reach me, but you can send a message (:"
+const howToReachMe = "You cannot reach me, but you can send me a message (:"
 
 ```
