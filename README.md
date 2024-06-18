@@ -5,9 +5,9 @@ $ Hi There 👋
 ```
 
 ```ts
-const name = "Rodrigo";
-const workingAs = "software developer";
-const hobbiesAndStuffs = [
+const name: string = "Rodrigo";
+const workingAs: string = "software developer";
+const hobbiesAndStuffs: Array<string> = [
   "game collector",
   "e-sports fan",
   "may a streamer sometimes",
@@ -15,6 +15,6 @@ const hobbiesAndStuffs = [
   "investor",
   "gaming pc enthusiast"
 ];
-const howToReachMe = "You cannot reach me, but you can send me a message (:"
+const howToReachMe: string = "You cannot reach me, but you can send me a message (:"
 
 ```
