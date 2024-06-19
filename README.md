@@ -17,7 +17,7 @@ fun main() {
       "gaming pc enthusiast"
     );
     
-    val howToReachMe = "You cannot reach me (:";
+    val howToReachMe = "you cannot reach me (:";
 }
 
 ```
