@@ -13,7 +13,6 @@ fun main() {
       "e-sports fan",
       "may a streamer sometimes",
       "open sourcerer",
-      "investor",
       "gaming pc enthusiast"
     );
     
