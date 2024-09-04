@@ -6,7 +6,7 @@ $ Hi There 👋
 
 ```kotlin
 fun main() {    
-    val nome = "rodrigo";
+    val name = "rodrigo";
     var workingAs = "software developer";
     var hobbiesAndStuffs = arrayOf(
       "game collector",
