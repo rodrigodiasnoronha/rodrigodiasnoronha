@@ -15,8 +15,8 @@ fun main() {
       "open sourcerer",
       "gaming pc enthusiast"
     );
-    val whatImDoing = "building great things"
-    val howToReachMe = "see the email beside ⬅️";
+    var whatImDoing = "building great things"
+    var howToReachMe = "see the email beside ⬅️";
 }
 
 ```
