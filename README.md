@@ -15,8 +15,8 @@ fun main() {
       "open sourcerer",
       "gaming pc enthusiast"
     );
-    
-    val howToReachMe = "you cannot reach me (:";
+    val whatIamDoing = "building great things"
+    val howToReachMe = "see the email beside ⬅️";
 }
 
 ```
